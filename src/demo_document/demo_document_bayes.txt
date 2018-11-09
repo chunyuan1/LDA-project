@@ -1,0 +1,16 @@
+Bayesian statistics, named for Thomas Bayes (1701¨C1761), is a theory in the field of statistics in which the evidence about the true state of the world is expressed in terms of degrees of belief known as Bayesian probabilities. Such an interpretation is only one of a number of interpretations of probability and there are other statistical techniques that are not based on 'degrees of belief'. One of the key ideas of Bayesian statistics is that "probability is orderly opinion, and that inference from data is nothing other than the revision of such opinion in the light of relevant new information
+
+The general set of statistical techniques can be divided into a number of activities, many of which have special Bayesian versions.
+
+Statistical inference
+Main article: Bayesian inference
+Bayesian inference is an approach to statistical inference that is distinct from frequentist inference. It is specifically based on the use of Bayesian probability to summarize evidence.
+
+Statistical modeling
+The formulation of statistical models using Bayesian statistics has the identifying feature of requiring the specification of prior distributions for any unknown parameters. Indeed, parameters of prior distributions may themselves have prior distributions, leading to Bayesian hierarchical modeling, or may be interrelated, leading to Bayesian networks.
+
+Design of experiments
+The Bayesian design of experiments includes a concept called 'influence of prior beliefs'. This approach uses sequential analysis techniques to include the outcome of earlier experiments in the design of the next experiment. This is achieved by updating 'beliefs' through the use of prior and posterior distribution. This allows the design of experiments to make good use of resources of all types. An example of this is the multi-armed bandit problem.
+
+Statistical graphics
+Statistical graphics includes methods for data exploration, for model validation, etc. The use of certain modern computational techniques for Bayesian inference, specifically the various types of Markov chain Monte Carlo techniques, have led to the need for checks, often made in graphical form, on the validity of such computations in expressing the required posterior distributions.
